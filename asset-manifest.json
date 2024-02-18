@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/To-Do/static/css/main.c3d85339.css",
+    "main.js": "/To-Do/static/js/main.5fde3995.js",
+    "static/media/Ovsyanka-press.ttf": "/To-Do/static/media/Ovsyanka-press.5fe514d1b0dbe8da9940.ttf",
+    "static/media/Ubuntu-Regular.ttf": "/To-Do/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Montserrat-Regular.ttf": "/To-Do/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
+    "static/media/Oswald-Regular.ttf": "/To-Do/static/media/Oswald-Regular.31bce04a1ae8549b1464.ttf",
+    "static/media/pngwing.com.png": "/To-Do/static/media/pngwing.com.9c0f44b21c6a96eb8c63.png",
+    "index.html": "/To-Do/index.html",
+    "static/media/reshot-icon-left-arrow-button-RF5DMQX396-95d98.svg": "/To-Do/static/media/reshot-icon-left-arrow-button-RF5DMQX396-95d98.6dd2869ca3d88bcee21df4ae1fd3e7fe.svg",
+    "static/media/reshot-icon-right-arrow-button-YAB8GEM7SD-c5f61.svg": "/To-Do/static/media/reshot-icon-right-arrow-button-YAB8GEM7SD-c5f61.8fbaefa6000e18ea99794cc9ab6f04b2.svg",
+    "main.c3d85339.css.map": "/To-Do/static/css/main.c3d85339.css.map",
+    "main.5fde3995.js.map": "/To-Do/static/js/main.5fde3995.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d85339.css",
+    "static/js/main.5fde3995.js"
+  ]
+}
