@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/To-Do/static/css/main.c3d85339.css",
-    "main.js": "/To-Do/static/js/main.d39536b3.js",
+    "main.js": "/To-Do/static/js/main.a07de9c1.js",
     "static/media/Ovsyanka-press.ttf": "/To-Do/static/media/Ovsyanka-press.5fe514d1b0dbe8da9940.ttf",
     "static/media/Ubuntu-Regular.ttf": "/To-Do/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/Montserrat-Regular.ttf": "/To-Do/static/media/Montserrat-Regular.24785cc015b27a3e964b.ttf",
@@ -11,10 +11,10 @@
     "static/media/reshot-icon-left-arrow-button-RF5DMQX396-95d98.svg": "/To-Do/static/media/reshot-icon-left-arrow-button-RF5DMQX396-95d98.6dd2869ca3d88bcee21df4ae1fd3e7fe.svg",
     "static/media/reshot-icon-right-arrow-button-YAB8GEM7SD-c5f61.svg": "/To-Do/static/media/reshot-icon-right-arrow-button-YAB8GEM7SD-c5f61.8fbaefa6000e18ea99794cc9ab6f04b2.svg",
     "main.c3d85339.css.map": "/To-Do/static/css/main.c3d85339.css.map",
-    "main.d39536b3.js.map": "/To-Do/static/js/main.d39536b3.js.map"
+    "main.a07de9c1.js.map": "/To-Do/static/js/main.a07de9c1.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d85339.css",
-    "static/js/main.d39536b3.js"
+    "static/js/main.a07de9c1.js"
   ]
 }
