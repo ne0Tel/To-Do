@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(../../../assets/fonts/Montserrat-Regular.ttf);
+}
+
+.listWrapper {
+  margin: 50px 0px 0px 0px;
+}
+
+.litsDelCommon {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.litsDelCommon img {
+  max-width: 20px;
+  max-height: 20px;
+  cursor: pointer;
+}
+
+.listDelFlex {
+  display: flex;
+}
+
+.flexCol {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.listDelMargin {
+  margin: 0px 10px 0px 0px;
+}
+
+.itemActive {
+  display: none;
+}

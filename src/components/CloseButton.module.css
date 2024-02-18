@@ -1,0 +1,12 @@
+.closeButtonCommon {
+  cursor: pointer;
+
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.closeButtonCommon img {
+  max-width: 20px;
+  max-height: 20px;
+}

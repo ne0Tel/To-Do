@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Montserrat;
+  src: url(../../../assets/fonts/Montserrat-Regular.ttf);
+}
+
+.commonStyleItemDel {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.itemDelFlex {
+  display: flex;
+}
+
+.flexCol {
+  align-items: center;
+}
+
+.itemDelPos {
+  padding: 15px 0px 15px 15px;
+}
+
+.itemDelMargin {
+  margin: 0px 10px 0px 0px;
+}

@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Ovsyanka;
+  src: url(../../assets/fonts/Ovsyanka-press.ttf);
+}
+
+.modalCommon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 15px;
+  border: 5px solid rgb(255, 212, 18);
+  background-color: rgb(252, 247, 238);
+  
+  font-family: Ovsyanka sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+
+  max-width: 500px;
+
+  position: relative; 
+  /* Состояние для того чтобы кнопка держалась в форме */
+}
+
+.modalCommon div {
+  margin: 0px 0px 15px 0px;
+}
+
+.modalCenter {
+  position: absolute;
+  margin: 0 auto;
+}

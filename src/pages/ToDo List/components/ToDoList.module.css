@@ -1,0 +1,4 @@
+.toDoListCommon {
+  display: flex;
+  flex-direction: column;
+}

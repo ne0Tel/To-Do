@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Oswald;
+  src: url(../../../assets/fonts/Oswald-Regular.ttf);
+}
+
+.footerStyle {
+  position: absolute;
+  bottom: 0;
+  padding: 15px 20px;
+
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.footerFlex {
+  display: flex;
+  align-items: center;
+}
+
+.flexCol {
+  flex: 0 0 100%;
+}
+
+.flexCol li {
+  margin-bottom: 10px;
+}
+
+.flexCol li:last-child {
+  margin-bottom: 0px;
+}
